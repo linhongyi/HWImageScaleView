@@ -5,6 +5,7 @@ It is simple to use for scaling UIImage.
 
 ##How to Start
 
+```
 1.Initialization 
 
 HWImageScaleView *imageScaleView = [HWImageScaleView alloc]initWithFrame:yourFrame];
@@ -12,6 +13,7 @@ HWImageScaleView *imageScaleView = [HWImageScaleView alloc]initWithFrame:yourFra
 2.setImage
 
 [imageScaleView setContentImage:yourImage];
+```
 
 ##License
 
